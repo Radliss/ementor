@@ -6,14 +6,12 @@
 .wrapper{
     height: 800px;
     width: 1440px;
-    border: 1px solid blue;
     background-color: #10B582;
     color: white;   
     font-family: 'Raleway', Arial, sans-serif;
 }
 header{
 height: 10%;
-border: 1px solid blue;
 display: flex;
 font-size: 16px;
 font-weight: 500;
@@ -31,13 +29,11 @@ a{
 }
 main{
 height: 90%;
-border: 1px solid black;
 display: flex;
 
 }
 .photo1{
 flex-basis: 30%;
-border: 1px solid red;
 display: flex;
 padding-top: 380px;
 padding-bottom: 120px;
@@ -52,14 +48,12 @@ top: 380px;
 }
 .global_content{
 flex-grow: 1;
-border: 1px solid yellow;
 display: flex;
 flex-direction: column;
 }
 
 .box1{
  font-weight: 700;   
- border: 1px solid red;
 height: 200px;
 text-align: center;
 padding-top: 90px;
@@ -69,7 +63,6 @@ padding-top: 90px;
 font-weight: 500;
 font-size: 58px;
 height: 150px;
-border: 1px solid red;
 text-align: center;
 }
 
@@ -78,7 +71,6 @@ font-weight: 400;
 font-size: 16px;
 height: 150px;
 text-align: center;
-border: 1px solid red;
 padding-top: 50px;
 }
 
@@ -90,7 +82,6 @@ height: 56px;
 left: 605px;
 top: 532px;
 color: white;
-border: 1px solid red;
 }
 .button{
     display: flex;
@@ -99,7 +90,6 @@ border: 1px solid red;
 
 .photo2{
 flex-basis: 30%;
-border: 1px solid blue;
 display: flex;
 padding-top: 150px;
 padding-right: 135px;
